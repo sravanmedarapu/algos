@@ -5,7 +5,11 @@
 
 
 /.project
+/.metadata/
 /DidYouMean/.settings/
 /DidYouMean/.project
 /DidYouMean/.classpath
-/DidYouMean/.DidYouMean.iml
+/DidYouMean/DidYouMean.iml
+/DidYouMean/target/
+algos.iml
+scratchpad.iml
