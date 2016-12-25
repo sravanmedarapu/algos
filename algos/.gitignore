@@ -1,0 +1,11 @@
+/target/
+
+/.idea/
+/.settings/
+
+
+/.project
+/DidYouMean/.settings/
+/DidYouMean/.project
+/DidYouMean/.classpath
+/DidYouMean/.DidYouMean.iml
