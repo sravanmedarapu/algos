@@ -7,6 +7,9 @@
   <packaging>pom</packaging>
   <modules>
     <module>DidYouMean</module>
+    <module>HashPlay</module>
+    <module>Graph</module>
+    <module>CatShopping</module>
   </modules>
   <build>
     <plugins>

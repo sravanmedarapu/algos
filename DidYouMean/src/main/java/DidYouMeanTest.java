@@ -16,5 +16,11 @@ public class DidYouMeanTest {
         assertEquals("java", dictionary.findMostSimilar("heaven"));
         assertEquals("javascript", dictionary.findMostSimilar("javascript"));
     }
+    @Test public void testLanguages11() {
+        DidYouMean dictionary = new DidYouMean(
+            new String[] {"eee", "eba", "ruby", "php", "python", "coffeescript"});
+        assertEquals("eba", dictionary.findMostSimilar("eea"));
+        //assertEquals("javascript", dictionary.findMostSimilar("javascript"));
+    }
 
 }

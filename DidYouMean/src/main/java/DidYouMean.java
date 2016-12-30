@@ -103,6 +103,7 @@ public class DidYouMean {
 
             }
         }
+        System.out.println("closeMatch:"+closeMatch);
         return closeMatch;
     }
 }
